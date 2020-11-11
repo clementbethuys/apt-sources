@@ -1,0 +1,2 @@
+deb http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1810/x86_64 /
+deb http://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/ /
